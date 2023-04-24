@@ -15,6 +15,7 @@ putchar(n);
 while (m <= 198)
 {
 putchar(m);
+m++;
 }
 putchar('\n');
 return (0);
