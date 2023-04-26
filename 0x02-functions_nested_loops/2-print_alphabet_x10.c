@@ -1,5 +1,7 @@
 #include "main.h"
 /**
+* main - Entry point
+*
 * print_alphabet_x10 - Prints the alphabet 10 times
 *
 * Return: Always 0 (Success)
@@ -15,4 +17,5 @@ for (j = 97; j <= 122; j++)
 _putchar(j);
 }
 _putchar('\n');
+}
 }
