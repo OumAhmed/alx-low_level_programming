@@ -3,7 +3,8 @@
 /**
  * _memset - Entry point
  * @s: pinted destination
- * @b: constant byte @n: bytes
+ * @b: constant byte
+ * @n: bytes
  * Return: Always 0 (Success)
  */
 
